@@ -65,7 +65,7 @@ The objective was to convert raw transactional data into **actionable business i
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 Power BI Dashboards (4 Pages)
+## 📊 Power BI Dashboards-
 
 ### 1️⃣ Executive Overview
 
@@ -119,7 +119,8 @@ The objective was to convert raw transactional data into **actionable business i
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview-File Included
+![File](EDAdashboard.pbix)
 
 ### Executive Level Dashboard
 
